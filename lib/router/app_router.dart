@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import '../screens/home/home.dart';
-import '../screens/splash/splash_screen.dart';
-import '../screens/home/home.dart';
+import 'package:sosyal_medya_app/features/home/presentation/widgets/home_view.dart';
+
 
 
 
@@ -15,9 +14,8 @@ class AppRouter {
       ),
       GoRoute(
         path: '/home',
-        builder: (context, state) => const HomeScreen(),
+        builder: (context, state) => const HomeView(),
       ),
-
     ],
   );
 }
