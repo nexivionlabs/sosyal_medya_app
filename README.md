@@ -29,3 +29,20 @@ flutter run
 ✔️ İlk commit atıldı
 
 ✔️ Proje artık resmi olarak bir yazılım projesi oldu 🚀
+
+## 📌 Son Güncelleme – Version 2
+
+-Routing yapısı düzenlendi
+
+H-omeView eklendi ve ana sayfa yapısı iyileştirildi
+
+-Proje klasör yapısı feature–based hale getirildi
+
+
+📌##  Update (Version 2)
+
+-Routing structure updated
+
+-Added HomeView as main screen
+
+-Improved feature–based folder architecture
