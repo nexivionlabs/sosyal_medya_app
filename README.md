@@ -1,17 +1,19 @@
-# sosyal_medya_app
+# Sosyal Medya Uygulaması
 
-A new Flutter project.
+Bu uygulama,
 
-## Getting Started
+Flutter ile geliştirilmeye başlandı...
 
-This project is a starting point for a Flutter application.
+## 📱 Özellikler
+- Splash Screen
+- GoRouter yapısı
+- Home Screen
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# sosyal_medya_app
+## 🚀 Kurulum
+```bash
+flutter pub get
+```
+## 💻 Çalıştırmak İçin
+```bash
+flutter run
+```
