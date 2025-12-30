@@ -17,3 +17,15 @@ flutter pub get
 ```bash
 flutter run
 ```
+
+## Başlangıç için;
+
+✔️ Router kuruldu
+
+✔️ Splash Screen profesyonel hale geldi
+
+✔️ Async context hatası temizlendi
+
+✔️ İlk commit atıldı
+
+✔️ Proje artık resmi olarak bir yazılım projesi oldu 🚀
